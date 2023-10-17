@@ -1,0 +1,54 @@
+input{
+    margin-left: 10px;
+}
+.bouton-inscrire{
+    background-color: blue; 
+    color: white;
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 2px; 
+    margin-left:  180px; 
+    height: 30px;
+    width: 100px;
+    margin-bottom: 15px;
+}
+
+
+.bouton-continuer{
+    background-color: rgb(47, 47, 197); 
+    color: white;
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    margin-left:  20px; 
+    width: 80%; 
+     }
+p{
+    color: rgba(140, 139, 139, 0.5);  
+}
+
+h5 {
+    color: rgba(140, 139, 139, 0.5); 
+margin-left: 30px; }
+
+#ou { color: black;
+    margin-left: 250px;    ;
+    }
+
+form{ background-color: rgb(235, 231, 231);
+    margin-right: 40%;
+    
+         
+    }
+    h2,label{
+        margin-left: 20px;
+    }
+#compte { border: none;
+ }
+ div{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+ }
+
+    
